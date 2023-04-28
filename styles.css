@@ -4,7 +4,10 @@
 	padding: 10px;
 }
 li{
-	display: inline-block;
+	display: inline;
 	margin-right: 1rem;
 	list-style: none;
+}
+ul{
+	display:flex;
 }
